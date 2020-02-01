@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2adf2816f849c494aab53d2472912105
+timeCreated: 1512670638
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - interactButton: {fileID: 1102811341911512, guid: 87ac4e3c137e6b641821213b1578cac8,
+      type: 2}
+  - SearchGUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
